@@ -24,9 +24,15 @@
 .variabele{
   width:30%;
   height: 100vh;
-  margin-top: 10px;
+  margin: 10px 10px 10px 10px;
 }
 
 .webviewer{
   width:70%;
+}
+#varTitle{
+  margin-bottom: 10px;
+}
+.varTextfield{
+  margin-bottom: 5px;
 }
